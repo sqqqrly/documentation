@@ -1,5 +1,15 @@
 ### Status
 
-| Tasks                     | ddev                      | fraprd                |
+| Tasks                     | softbankdev               | fraprd                |
 | ------------------------- | ------------------------- | --------------------- |
-| aaa vvv dddd dddd  dddddd ssssssss ssssssssssssss ssssssssssssssss sssssssssssssssss sssssssssssssss ssssssssssssssss sssssssssss sssssssssss | bbb                       | ccc                   |             
+| create-convo-slot.sh      | -                         | -                     |
+
+| Services                  | softbankdev               | fraprd                |
+| ------------------------- | ------------------------- | --------------------- |
+| UI                        | needs redis               | needs redis           |            
+| Store                     | needs compose             | needs compose         |
+| Dialog                    | needs new image           | needs new image       |
+| Analytics                 ||
+| Master                    ||
+| NLU                       ||
+| SLAD                      ||
